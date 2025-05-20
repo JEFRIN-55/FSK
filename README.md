@@ -1,4 +1,4 @@
-# ASK
+# FSK
 
 # Aim
 Write a Python program for the modulation and demodulation of ASK.
